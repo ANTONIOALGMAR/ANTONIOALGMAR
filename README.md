@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Olá, eu sou o Antonio Algmár! 👋
+# Olá, eu sou o Antonio Algmar! 👋
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará uma visão geral dos meus commits e das linguagens que mais utilizo nos meus projetos.
 
