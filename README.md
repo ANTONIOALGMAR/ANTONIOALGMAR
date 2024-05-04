@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**ANTONIOALGMAR/ANTONIOALGMAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou o Antonio Algmár! 👋
 
-Here are some ideas to get you started:
+Bem-vindo ao meu perfil do GitHub! Aqui você encontrará uma visão geral dos meus commits e das linguagens que mais utilizo nos meus projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estatísticas de Commits
+[![Gráfico de Commits](https://github-readme-stats.vercel.app/api?username=ANTONIOALGMAR&theme=dark)](https://github.com/ANTONIOALGMAR)
+
+## Linguagens Mais Utilizadas
+[![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ANTONIOALGMAR&layout=compact&theme=dark)](https://github.com/ANTONIOALGMAR)
+
+## Sobre Mim
+- 👨‍💻 Desenvolvedor de Software
+- 🌱 Apaixonado por tecnologia e programação
+- 📚 Sempre aprendendo e evoluindo
+
+## Entre em Contato
+- [GitHub](https://github.com/ANTONIOALGMAR)
+- [LinkedIn](https://www.linkedin.com/in/ANTONIOALGMAR)
+- [Twitter](https://twitter.com/ANTONIOALGMAR)
+
+Vamos construir algo incrível juntos! 😉🚀
